@@ -2,7 +2,7 @@ name: jumpcoinlib_flutter
 description:
   A flutter wrapper for jumpcoinlib, a straight-forward, modular library for
   Multicoins and other Satoshi-based UTXO blockchains
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/KamaniasFaucet/jumpcoinlib
 
 environment:
