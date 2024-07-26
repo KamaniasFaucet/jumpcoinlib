@@ -18,9 +18,9 @@ class Network {
   });
 
   static final mainnet = Network(
-    wifPrefix: 181,
-    p2pkhPrefix: 53,
-    p2shPrefix: 30,
+    wifPrefix: 99,
+    p2pkhPrefix: 19,
+    p2shPrefix: 55,
     privHDPrefix: 0x0488ade4,
     pubHDPrefix: 0x0488b21e,
     bech32Hrp: "jump",
